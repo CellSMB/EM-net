@@ -1,5 +1,6 @@
 # EM-net
 This repository is official implementation of [**EM-net: Deep learning for electron microscopy image segmentation**](https://www.biorxiv.org/content/10.1101/2020.02.03.933127v1) on Google Colab.
+
 <font size = 4>**Important:** For better and ultimate inference results, we recommend the users to switch to the Colab Premium where they can utilise Tesla P100 GPU.
 ---
 
